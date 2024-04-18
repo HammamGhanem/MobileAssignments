@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assignment One</string>
+    <string name="welcome">Welcome!!\nThis is your Free Time in Your school</string>
+    <string name="password">Password</string>
+    <string name="id">User id</string>
+    <string name="second">Hey!!\nYou can Reserve whatever you want Here</string>
+    <string name="tennis">Table Tennis</string>
+    <string name="pool">Swimming Bool</string>
+    <string name="welcome2ndActv">hi</string>
+    <string name="hintReserve1">MM/DD </string>
+    <string name="reserve2">Hour:Minute</string>
+    <string name="username">User Name</string>
+    <string name="grade">Grade</string>
+</resources>
